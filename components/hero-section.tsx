@@ -37,13 +37,12 @@ export function HeroSection() {
           transition={{ delay: 0.5, duration: 0.8 }}
           className="text-5xl font-bold leading-none tracking-tight text-foreground sm:text-7xl lg:text-8xl"
         >
-          CRAFTING
+          TANISHKA
           <br />
           <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            COSMIC
+            JAIN
           </span>
           <br />
-          EXPERIENCES.
         </motion.h1>
 
         <motion.p
